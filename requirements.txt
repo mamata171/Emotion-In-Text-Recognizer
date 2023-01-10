@@ -4,5 +4,3 @@ numpy
 seaborn
 textblob
 altair
-joblib
-sqlite3
