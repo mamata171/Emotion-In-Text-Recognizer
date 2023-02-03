@@ -59,7 +59,7 @@ def main():
     
     str = " "
     if choice == "Home":
-        st.subheader("Find Emotion In Iext")
+        st.subheader("Find Emotion In Text")
 
         with st.form(key='emotion_classifier_form'):
             raw_text = st.text_area("Type Here")
